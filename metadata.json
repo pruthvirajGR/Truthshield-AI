@@ -1,0 +1,7 @@
+{
+  "name": "TruthShield AI - Deepfake & Digital Fraud Defense",
+  "description": "Public-safety deepfake detection and digital fraud protection platform with Karnataka Cyber Department victim guidance and forensic analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
